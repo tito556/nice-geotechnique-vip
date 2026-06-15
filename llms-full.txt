@@ -1,0 +1,51 @@
+# Geotechnique — Nice
+
+> Geotechnical engineering services in Nice, France.
+
+## Services
+- [Amelioration Sols](https://nice.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://nice.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://nice.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://nice.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://nice.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://nice.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://nice.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://nice.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://nice.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://nice.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://nice.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://nice.geotechnique.vip/fondations/)
+- [Geophysique](https://nice.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://nice.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://nice.geotechnique.vip/granulometrie/)
+- [Injections](https://nice.geotechnique.vip/injections/)
+- [Investigation](https://nice.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://nice.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://nice.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://nice.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://nice.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://nice.geotechnique.vip/liquefaction/)
+- [Masw](https://nice.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://nice.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://nice.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://nice.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://nice.geotechnique.vip/pieux/)
+- [Puits Inspection](https://nice.geotechnique.vip/puits-inspection/)
+- [Radiers](https://nice.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://nice.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://nice.geotechnique.vip/resistivite/)
+- [Semelles](https://nice.geotechnique.vip/semelles/)
+- [Sismique](https://nice.geotechnique.vip/sismique/)
+- [Sondages Spt](https://nice.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://nice.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://nice.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://nice.geotechnique.vip/talus/)
+- [Tunnels Sol Mou](https://nice.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://nice.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://nice.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Nice, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
